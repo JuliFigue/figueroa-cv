@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-  font-family: sans-serif;
+  font-family: "Inter", sans-serif;
   background-color: #f8f0f0;
   color: #000;
   margin: 0;
@@ -14,7 +14,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 32px; 
+  gap: 32px;
   background-color: #cc2e5d;
   padding: 16px 0;
 }
@@ -22,10 +22,10 @@ body {
 .navbar a {
   background-color: #f7f1d5;
   color: #3a3a3a;
-  padding: 11.2px 24px; 
+  padding: 11.2px 24px;
   border-radius: 30px;
   font-weight: bold;
-  font-size: 16px; 
+  font-size: 16px;
   text-decoration: none;
 }
 
@@ -42,11 +42,13 @@ body {
 }
 
 .subtitulo {
-  font-size: 16px; 
-  margin-bottom: 8px; 
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  margin-bottom: 8px;
 }
 
 h1 {
+  font-family: "Inter", sans-serif;
   font-size: 32px;
 }
 
@@ -54,7 +56,7 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 32px 16px; 
+  padding: 32px 16px;
   gap: 32px;
 }
 
@@ -62,14 +64,15 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 32px 16px; 
-  gap: 8px; 
+  padding: 32px 16px;
+  gap: 8px;
   background-color: #ffffff;
   border: 3px solid #ff66c4;
   border-radius: 15px;
 }
 
 .bio p {
+  font-family: "Inter", sans-serif;
   max-width: 600px;
   text-align: center;
   margin: 0;
@@ -98,7 +101,7 @@ h1 {
 
 .datos-personales {
   background-color: #fff;
-  padding: 16px; 
+  padding: 16px;
   border-radius: 15px;
   width: 300px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -106,30 +109,33 @@ h1 {
 
 .datos-personales ul {
   list-style: none;
-  padding: 8px 0; 
+  padding: 8px 0;
 }
 
 .datos-personales img {
-  margin-top: 16px; 
+  margin-top: 16px;
   width: 100%;
   border-radius: 10px;
 }
 
 .datos-personales h2 {
+  font-family: "Inter", sans-serif;
   color: #cc2e5d;
 }
 
 .etiqueta {
+  font-family: "Inter", sans-serif;
   font-weight: bold;
   color: #aa0033;
 }
 
 footer {
+  font-family: "Inter", sans-serif;
   text-align: center;
   background-color: #cc2e5d;
   color: white;
-  padding: 16px; 
-  margin-top: 32px; 
+  padding: 16px;
+  margin-top: 32px;
 }
 
 .trabajos {
@@ -141,21 +147,22 @@ footer {
 }
 
 .trabajos h2 {
-  color: #cc2e5d; 
+  font-family: "Inter", sans-serif;
+  color: #cc2e5d;
   margin-bottom: 12px;
   text-align: center;
 }
 
 .trabajos .galeria {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); 
-  gap: 12px; 
-  justify-items: center; 
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  justify-items: center;
 }
 
 .trabajos .galeria img {
-  width: 150px;   
-  height: 200px;  
+  width: 150px;
+  height: 200px;
   object-fit: cover;
   border-radius: 10px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
