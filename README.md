@@ -1,0 +1,6 @@
+Para la realización de mi currículum en HTML y CSS seguí un proceso que mezcla lo meticuloso con lo experimental. Primero definí la estructura base en HTML, organizando la información principal en secciones claras: datos personales, formación, experiencia y trabajos. Una vez armado el esqueleto, pasé al CSS, donde intenté que mi estilo no quedara en Windows 98', sino que reflejara algo más actual y visualmente ordenado
+Me apoyé en flexbox para organizar los bloques, jugué con márgenes y paddings hasta que dejaran de rebelarse, y ajusté colores y tipografías para mantener una lectura clara y estética. Hubo varios intentos fallidos donde mi CV parecía más una página de memes que un documento serio, pero finalmente encontré un balance entre funcionalidad y diseño.
+El resultado es un currículum digital que cumple con los requisitos técnicos, y también deja ver un poco de mi personalidad creativa. En resumen: pasé de “pelearme con el código” a lograr un archivo que, con suerte, no se autodestruirá cuando el profesor lo abra.
+PD: ya no hay <ul> adentro de <ul>, perdón Aime :'D
+Tamaño de pantalla: 1920px x 1080px
+Repositorio: https://github.com/JuliFigue/figueroa-cv.git
